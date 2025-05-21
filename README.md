@@ -8,7 +8,7 @@ This code was born of the need for made up data with current dates to use in a T
 
 These are the results in Tableau Pulse using this random generator and exporting to csv for use as a data source:
 
-<img src="https://github.com/julieanneco/Scope3_Emissions/TableauPulse.png" alt="TableauPulse.key" width="500">
+<img src="https://github.com/julieanneco/RandomRetailDataGenerator/blob/main/TableauPulse.png" alt="TableauPulse.key" width="500">
 
 <br>
 **[Click Here to Visit the Tableau Public Dashboard also using this Data](https://public.tableau.com/app/profile/julie.anne.hockensmith/viz/FootwearDashboard/HomePage?publish=yes)** <sup><sub>*Ctrl+Click to open in new tab*</sub></sup>
