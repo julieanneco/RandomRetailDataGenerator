@@ -1,5 +1,7 @@
 # Random Retail Data Generator
 
+**[Click Here to Visit the Tableau Dashboard using this Data](https://public.tableau.com/app/profile/julie.anne.hockensmith/viz/FootwearDashboard/HomePage?publish=yes)** <sup><sub>*Ctrl+Click to open in new tab*</sub></sup>
+
 Use this is a template to create your own Retail Sales data set.
 
 Create a Python dataframe of random Retail Sales data that can be used in Python or exported to CSV for use in Tableau or other analytical platforms.
