@@ -10,4 +10,5 @@ These are the results in Tableau Pulse using this random generator and exporting
 
 
 
-**[Click Here to Visit the Tableau Dashboard using this Data](https://public.tableau.com/app/profile/julie.anne.hockensmith/viz/FootwearDashboard/HomePage?publish=yes)** <sup><sub>*Ctrl+Click to open in new tab*</sub></sup>
+<br>
+**[Click Here to Visit the Tableau Public Dashboard also using this Data](https://public.tableau.com/app/profile/julie.anne.hockensmith/viz/FootwearDashboard/HomePage?publish=yes)** <sup><sub>*Ctrl+Click to open in new tab*</sub></sup>
